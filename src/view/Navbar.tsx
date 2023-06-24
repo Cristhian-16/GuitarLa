@@ -4,7 +4,11 @@ export const Navbar = () => {
   return (
     <section className='flex items-center justify-between'>
       <Link to={'/'}>
-        <img src='./logo.svg' alt='Logo' className='w-[300px]' />
+        <img
+          src={`${window.location.origin}/logo.svg`}
+          alt='Logo'
+          className='w-[300px]'
+        />
       </Link>
 
       <nav className='font-bold uppercase flex gap-5 mt-5'>
