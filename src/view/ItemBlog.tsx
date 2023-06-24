@@ -6,7 +6,7 @@ export const ItemBlog = ({ foto }: Foto) => {
     <div className='flex flex-col w-[300px] mb-20'>
       <img
         className='w-[300px]'
-        src={`/public/blog_${foto}.jpg`}
+        src={`./blog_${foto}.jpg`}
         alt={`Blog ${foto}`}
       />
       <div className='mt-[36px]'>

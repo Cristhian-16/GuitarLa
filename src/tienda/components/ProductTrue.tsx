@@ -8,7 +8,7 @@ export const ProductTrue = ({ product }: ProductsProps) => {
   return (
     <>
       <section className='mt-10 flex gap-3 mb-[151px]'>
-        <img src={`/public/${product.id}.jpg`} alt={product.name} width={150} />
+        <img src={`./${product.id}.jpg`} alt={product.name} width={150} />
         <div className='w-40'>
           <h1 className='text-2xl font-bold text-[#e99401] text-center'>
             {product.name}

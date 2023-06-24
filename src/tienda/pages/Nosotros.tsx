@@ -8,11 +8,7 @@ export const Nosotros = () => {
           Nosotros
         </h1>
         <div className='flex items-center mt-16 gap-4'>
-          <img
-            src='/public/nosotros.jpg'
-            alt='Nosotros'
-            className='w-[650px]'
-          />
+          <img src='./nosotros.jpg' alt='Nosotros' className='w-[650px]' />
           <div className='flex flex-col gap-3 text-xl'>
             <p>
               En nuestra tienda de guitarras, nos apasiona la música y creemos
