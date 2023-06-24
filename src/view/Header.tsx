@@ -34,7 +34,7 @@ export const Header = () => {
       </div>
 
       <img
-        src='/public/header_guitarra.png'
+        src='./header_guitarra.png'
         alt='Header Guitarra'
         className='absolute right-0 bottom-0 z-[-1]'
       />
