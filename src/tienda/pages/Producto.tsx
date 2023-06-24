@@ -52,7 +52,7 @@ export const Producto = () => {
         onSubmit={handleSubmit}
       >
         <img
-          src={`/public/${productFind.id}.jpg`}
+          src={`./${productFind.id}.jpg`}
           alt={productFind.name}
           className='w-[300px]'
         />
