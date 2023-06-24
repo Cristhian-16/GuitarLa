@@ -9,7 +9,7 @@ export const ProductosList = ({ product }: ProductProps) => {
   return (
     <div className='flex'>
       <img
-        src={`/public/${product.id}.jpg`}
+        src={`../../public/${product.id}.jpg`}
         alt={product.name}
         className='w-[150px]'
       />
