@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": "lukather",
+      "name": "Lukether",
+      "descripcion": "Modelo de alta gama con tonos versátiles y gran calidad de construcción."
+    },
+    {
+      "id": "srv",
+      "name": "SRV",
+      "descripcion": "Inspirada en el legendario Stevie Ray Vaughan, ofrece un sonido bluesy inigualable."
+    },
+    {
+      "id": "borland",
+      "name": "Borland",
+      "descripcion": "Diseñada para el estilo único de Wes Borland, ideal para sonidos pesados y experimentales."
+    },
+    {
+      "id": "vai",
+      "name": "Vai",
+      "descripcion": "Creada en colaboración con Steve Vai, perfecta para expresión creativa y técnicas avanzadas."
+    },
+    {
+      "id": "thompson",
+      "name": "Thompson",
+      "descripcion": "Un instrumento clásico con un toque moderno, ideal para estilos diversos."
+    },
+    {
+      "id": "white",
+      "name": "White",
+      "descripcion": "Elegante diseño y tonos excepcionales, ideal para rock clásico y blues."
+    },
+    {
+      "id": "cobain",
+      "name": "Cobain",
+      "descripcion": "Inspirada en Kurt Cobain, ofrece un sonido poderoso y crudo para el grunge y el rock alternativo."
+    },
+    {
+      "id": "dale",
+      "name": "Dale",
+      "descripcion": "Diseñada para surf rock y sonidos playeros, con un estilo retro y vibraciones veraniegas."
+    },
+    {
+      "id": "krieger",
+      "name": "Krieger",
+      "descripcion": "Basada en el estilo de Robby Krieger, brinda un sonido psicodélico y distorsionado."
+    },
+    {
+      "id": "campbell",
+      "name": "Campbell",
+      "descripcion": "Inspirada en Vivian Campbell, perfecta para riffs de heavy metal y solos virtuosos."
+    },
+    {
+      "id": "reed",
+      "name": "Reed",
+      "descripcion": "Un instrumento versátil con un sonido cálido y resonante, ideal para estilos acústicos y folk."
+    },
+    {
+      "id": "hazel",
+      "name": "Hazel",
+      "descripcion": "Con una estética vintage y tonos brillantes, es ideal para el blues y el rock clásico."
+    }
+  ]
+}
