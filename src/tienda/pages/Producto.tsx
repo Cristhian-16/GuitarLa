@@ -27,7 +27,6 @@ export const Producto = () => {
 
   const handleSubmit = (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
-    console.log(form);
     addProductToCart(
       { ...productFind, cantidad: +form.cantidad },
       form.cantidad
@@ -52,7 +51,7 @@ export const Producto = () => {
         onSubmit={handleSubmit}
       >
         <img
-          src={`./${productFind.id}.jpg`}
+          src={`${window.location.origin}/${productFind.id}.jpg`}
           alt={productFind.name}
           className='w-[300px]'
         />
